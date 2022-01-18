@@ -1,10 +1,3 @@
-@font-face{
-  font-family:"utm-alter-gothic";
-  src:url("https://candyfonts.com/wp-data/2018/10/26/11227/UTM Alter Gothic.ttf") format("woff"),
-  url("https://candyfonts.com/wp-data/2018/10/26/11227/UTM Alter Gothic.ttf") format("opentype"),
-  url("https://candyfonts.com/wp-data/2018/10/26/11227/UTM Alter Gothic.ttf") format("truetype");
-}
-
 $text-black: #333;
 $text-white: #fff;
 $text-red: #e82328;
@@ -15,7 +8,7 @@ $bg-gray: #f9f9f9;
 $bg-blue-dark: #2c2b3b;
 $bg-input-blue-dark: #22222d;
 $border-button-red: #e82328;
-$second-font: "utm-alter-gothic",sans-serif;
+$second-font: "UTM Alter Gothic",sans-serif;
 
 html{
     font-size: 62.5%;
